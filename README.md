@@ -26,5 +26,5 @@
 > Uma integração extremamente veloz para quem tem a necessidade de trabalhar com dados em tempo real e com a padronização que o mercado exige, uma integração que depende da WmsExpert e do Erp para ser desenvolvida.
 
 <div>
-<a href="http://191.252.156.192:8181/swagger-ui.html#/" target="_blank">Documentação da API</a>
+<a href="http://187.18.156.253:8181/swagger-ui.html#/" target="_blank">Documentação da API</a>
 </div>
