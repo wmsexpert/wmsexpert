@@ -16,7 +16,7 @@
 > Uma integração onde nos comunicamos com o Erp e coletamos todas as informações para que o Wms possa realizar o controle com perfeição do seu CD, e uma integração extremamente rapida e com uma maior facilidade de desenvolvimento.
 
 <div>
-<a href="https://github.com/wmsexpert/docs/blob/main/README.md" target="_blank">Documentação de Views</a>
+<a href="https://wnsousa.github.io/documentacao_view/" target="_blank">Documentação de Views</a>
 </div>
 
 ##
